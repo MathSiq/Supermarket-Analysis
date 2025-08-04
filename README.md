@@ -16,17 +16,3 @@ Jupyter Notebook: para análise exploratória (EDA)
 Power BI: criação de dashboards interativos
 
 GitHub: versionamento e portfólio público
-
-Principais Insights
-
-A cidade de Yangon apresenta o maior volume de vendas e o maior lucro médio por transação.
-
-Clientes do sexo feminino têm um gasto médio ligeiramente maior do que os do sexo masculino.
-
-Produtos eletrônicos possuem o maior ticket médio, embora com menor frequência de compra.
-
-O método de pagamento com maior uso é o cartão de crédito.
-
-Os dias com maior volume de vendas estão concentrados no fim de semana, especialmente sábados.
-
-O lucro líquido varia significativamente por tipo de produto e cidade, indicando oportunidades de reequilíbrio de estoque.
